@@ -18,6 +18,13 @@ The LLM never supplies facts. Python builds the card, so nothing is invented.
    python app.py
 3. Open http://127.0.0.1:7860
 
+## Demo
+
+
+https://github.com/user-attachments/assets/3c4aff6c-a99f-405e-8e7b-5feb83e2aa84
+
+
+
 ## Files
 - `config.py`: model, prompt, stations
 - `places.py`: CSV + OSM data, distance, maps link, weather
